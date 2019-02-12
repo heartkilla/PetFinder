@@ -1,2 +1,3 @@
 # PetFinder
-Mitka is gay
+https://www.kaggle.com/c/petfinder-adoption-prediction
+
