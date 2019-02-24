@@ -4,7 +4,7 @@ https://www.kaggle.com/c/petfinder-adoption-prediction
 
 ## Pipeline overview (in progress)
 ### 1. Data cleaning
-1. [Type-breed disagreement](https://www.kaggle.com/c/petfinder-adoption-prediction/discussion/78948)
+1. (SOLVED)[Type-breed disagreement](https://www.kaggle.com/c/petfinder-adoption-prediction/discussion/78948)
 ### 2. Feature engineering
 1. Use all available features
 2. Create new features using available ones so far
