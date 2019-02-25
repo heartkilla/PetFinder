@@ -13,7 +13,7 @@ https://www.kaggle.com/c/petfinder-adoption-prediction
 5. Add external data 
 6. Create new features using available ones so far
 ### 3. Model building
-1. Implement QWK
 ### 4. Choose optimal thresholds
 1. [Thread about thresholds](https://www.kaggle.com/c/petfinder-adoption-prediction/discussion/76107)
 2. [Nelder–Mead method](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D0%9D%D0%B5%D0%BB%D0%B4%D0%B5%D1%80%D0%B0_%E2%80%94_%D0%9C%D0%B8%D0%B4%D0%B0)
+3. "Keep the distribution" method
